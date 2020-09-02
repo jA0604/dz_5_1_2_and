@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">dz_5_1_2_and</string>
+    <string name="name_dz">Выбор картинки для элемента из внешнего файла</string>
+
+    <!--    кнопки-->
+    <string name="str_btn_0">0</string>
+    <string name="str_btn_1">1</string>
+    <string name="str_btn_2">2</string>
+    <string name="str_btn_3">3</string>
+    <string name="str_btn_4">4</string>
+    <string name="str_btn_5">5</string>
+    <string name="str_btn_6">6</string>
+    <string name="str_btn_7">7</string>
+    <string name="str_btn_8">8</string>
+    <string name="str_btn_9">9</string>
+    <string name="str_btn_dot">.</string>
+
+    <string name="str_btn_c">C</string>
+    <string name="str_btn_sign">+/-</string>
+    <string name="str_btn_percent">%</string>
+    <string name="str_btn_div">÷</string>
+    <string name="str_btn_mul">×</string>
+    <string name="str_btn_sub">-</string>
+    <string name="str_btn_sum">+</string>
+    <string name="str_btn_result">=</string>
+    <string name="str_btn_del">Del</string>
+
+    <string name="str_btn_ok">OK</string>
+
+</resources>
